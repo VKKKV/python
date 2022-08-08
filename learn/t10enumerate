@@ -1,0 +1,9 @@
+lists = [1, 2, 3, 4, 5]
+for i in enumerate(lists):
+    print(i)
+    # element 带 index 变成 tuple 枚举
+
+# !! public method
+#  String list tuple +* mix
+# function:len(item) del max min 
+
